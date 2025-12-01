@@ -74,5 +74,7 @@ Además, tengo experiencia en el **modelado de bases de datos relacionales** uti
 ⭐ *“El desarrollo web no solo se trata de código, sino de transformar ideas en experiencias digitales.”*
 
 ---
-- *"cesar es gay"*
+
+## 🤡 cesar es gay 
+<div aling="center">
 
